@@ -2,7 +2,7 @@ Live URL - https://ajk-hacker-news.vercel.app/
 
 
 ### Description:
-Hacker News is the News Project inspired by Y combinator's HN Portal. With Better UI built on the top of Next.Js, Tailwind CSS, PRISMA ORM, MYSQL DB.
+Hacker News is the News Project inspired by [Y combinator's HN Portal](https://news.ycombinator.com/). With Better UI built on the top of Next.Js, Tailwind CSS, PRISMA ORM, MYSQL DB.
 
 ### Setup
 ```
