@@ -1,4 +1,4 @@
-Live URL - https://ajk-hacker-news.vercel.app/
+[Live URL](https://ajk-hacker-news.vercel.app)
 
 
 ### Description:
